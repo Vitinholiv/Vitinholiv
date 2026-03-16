@@ -24,7 +24,7 @@ Talking a bit more about some things I'm interested in...
 
 ## Main Skills 💡
 
-These are the skills I'm the most profficient on the moment of this profile update.
+These are the skills I am most proficient in at the time of this profile update.
 
 ### Languages ⌨️
 
