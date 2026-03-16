@@ -67,3 +67,14 @@ These are the skills I'm the most profficient on the moment of this profile upda
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vitinholiv/Vitinholiv/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contributions"/>
 </p>
+
+## Featured 🔥
+
+<p align="center">
+  <a href="https://github.com/Vitinholiv">
+    <img width='49%' height='500px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Vitinholiv&repo=CompetitiveProgramming&border_color=4f93e2&bg_color=0D1117&title_color=4f93e2&text_color=8B949E&icon_color=4f93e2" />
+  </a>
+  <a href="https://github.com/Vitinholiv">
+    <img width='49%' height='500px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Vitinholiv&repo=TrajectoryPredictor&border_color=4f93e2&bg_color=0D1117&title_color=4f93e2&text_color=8B949E&icon_color=4f93e2" />
+  </a>
+</p>
