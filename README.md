@@ -1,3 +1,7 @@
+<div align="right">
+  🇺🇸 English | <a href="README.pt-br.md">🇧🇷 Português</a>
+</div>
+
 <h1 align="center">🚨 You might be entering my profile page! 🚨</h1>
 
 <p align="center">
@@ -10,9 +14,9 @@ I am **Paulo Vitor Correia de Oliveira**, a Brazilian student at IMPA Tech pursu
 
 Talking a bit more about some things I'm interested in...
 
-- **AI and Machine Learning 🧠:** Beyond university courses in Machine Learning, I conducted undergraduate research through **PICME** on **Machine Learning applied to Differential Equations**. I developed a neural network to predict the optimal launch angle and velocity for an object to hit a target in a 2D space, while accounting for the gravitational interactions between the projectile and other objects in space. The core idea was to use a **PINN** to learn how to describe the optimal angle and intensity as a function of the target position, while also considering the gravitational interactions as a parameter or hyperparameter.
+- **AI and Machine Learning 🧠:** Beyond university courses in Machine Learning, I conducted undergraduate research through **[PICME](https://picme.obmep.org.br/)** on **Machine Learning applied to Differential Equations**. I developed a neural network to predict the optimal launch angle and velocity for an object to hit a target in a 2D space, while accounting for the gravitational interactions between the projectile and other objects in space. The core idea was to use a **PINN** to learn how to describe the optimal angle and intensity as a function of the target position, while also considering the gravitational interactions as a parameter or hyperparameter.
 
-- **Algorithms and Competitive Programming 💻:** I have participated in algorithms related undergraduate research projects through **[PICME](https://picme.obmep.org.br/)**, focusing on the subjects **Graph Theory and Its Algorithms** and **Unveiling the Mysteries of Sorting**. I was part of **Impatecode**, a university extension project dedicated to competitive programming. I enjoy solving problems on various platforms, particularly **[CSES](https://cses.fi/user/247527)**, where I have solved **221 problems**, and **[Codeforces](https://codeforces.com/profile/ColchaoDeMolasEnsacadas)**, with **348 problems** solved to date.
+- **Algorithms and Competitive Programming 💻:** I have participated in algorithms related undergraduate research projects through **[PICME](https://picme.obmep.org.br/)**, focusing on the subjects **Graph Theory and Its Algorithms** and **Unveiling the Mysteries of Sorting**. I was part of **Impatecode**, a university extension project dedicated to competitive programming. I enjoy solving problems on various platforms, particularly **[CSES](https://cses.fi/user/247527)**, where I have solved **227 problems**, and **[Codeforces](https://codeforces.com/profile/ColchaoDeMolasEnsacadas)**, with **348 problems** solved to date.
 
 <p align="center">
   <img src="./assets/cf.png" width="700" alt="Codeforces Problems">
