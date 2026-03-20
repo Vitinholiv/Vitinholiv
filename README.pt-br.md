@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.pt-br.md">🇺🇸 English</a> | 🇧🇷 Português
+  <a href="README.md">🇺🇸 English</a> | 🇧🇷 Português
 </div>
 
 <h1 align="center">🚨 Você está prestes a entrar no meu perfil! 🚨</h1>
