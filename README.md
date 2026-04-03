@@ -72,13 +72,13 @@ These are the skills I am most proficient in at the time of this profile update.
   <img src="https://raw.githubusercontent.com/Vitinholiv/Vitinholiv/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contributions"/>
 </p>
 
-## Featured 🔥
+<!--## Featured 🔥
 
 <p align="center">
   <a href="https://github.com/Vitinholiv/TrajectoryPredictor">
-    <img width='49%' height='500px' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitinholiv&repo=TrajectoryPredictor&border_color=4f93e2&bg_color=0D1117&title_color=4f93e2&text_color=8B949E&icon_color=4f93e2" />
+    <img width="49%" height="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitinholiv&repo=TrajectoryPredictor&border_color=4f93e2&bg_color=0D1117&title_color=4f93e2&text_color=8B949E&icon_color=4f93e2&upd=2" />
   </a>
   <a href="https://github.com/Vitinholiv/CompetitiveProgramming">
-    <img width='49%' height='500px' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitinholiv&repo=CompetitiveProgramming&border_color=4f93e2&bg_color=0D1117&title_color=4f93e2&text_color=8B949E&icon_color=4f93e2&upd=1" />
+    <img width="49%" height="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitinholiv&repo=CompetitiveProgramming&border_color=4f93e2&bg_color=0D1117&title_color=4f93e2&text_color=8B949E&icon_color=4f93e2&upd=2" />
   </a>
-</p>
+</p> -->
