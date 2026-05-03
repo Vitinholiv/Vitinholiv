@@ -18,10 +18,6 @@ Agora falando um pouco mais sobre algumas coisas do meu interesse...
 
 - **Algoritmos e Programação Competitiva 💻:** Participei em projetos de iniciação científica relacionados a algoritmos no **[PICME](https://picme.obmep.org.br/)**, focando nos temas **Teoria dos Grafos e Seus Algoritmos** e **Desvendando os Mistérios da Ordenação**. Fiz parte do **Impatecode**, um projeto de extensão da faculdade dedicado a programação competitiva. Gosto de resolver problemas em muitas plataformas, em particular o **[CSES](https://cses.fi/user/247527)**, onde resolvi **227 problemas** e o **[Codeforces](https://codeforces.com/profile/ColchaoDeMolasEnsacadas)**, onde resolvi **348 problemas** até o momento.
 
-<p align="center">
-  <img src="./assets/cf.png" width="700" alt="Problemas do Codeforces">
-</p>
-
 - **Desenvolvimento de Software 🧑‍💻:** Gosto de fazer softwares que tenham algum propósito especial, seja ele simplificar tarefas diárias, transformar como podemos visualizar ou interpretar algum dado ou apenas como uma ferramenta para facilitar a obtensão de informação de algum modo. Meu portfolio é uma mistura de projetos utilitários e projetos que fiz unicamente pela diversão de criá-los. Apesar de uma parte do meu trabalho estar disponível no GitHub, também guardo uma parte considerável deles como experimentos privados e ferramentas pessoais.
 
 - **Matemática Pura e Aplicada 🧮:** Apesar de meu foco profissional atualmente estar centrado na ciência da computação e programação, minha base é fortemente construída na matemática. Minha jornada começou com uma imersão na matemática pura e aplicada, principalmente pelas olimpíadas científicas e uma paixão por resolver de problemas de alto nível. Esses anos lendo e escrevendo demonstrações matemáticas e participando de competições foram muito importantes, sendo o lugar onde criei a mentalidade analítica que trago para qualquer código que escrevo hoje. Esse lado matemático continua sendo uma parte central de mim, servindo como uma base que me permitiu abordar o software como uma extensão lógica dos princípios matemáticos que estudei durante esses anos.
