@@ -18,10 +18,6 @@ Talking a bit more about some things I'm interested in...
 
 - **Algorithms and Competitive Programming 💻:** I have participated in algorithms related undergraduate research projects through **[PICME](https://picme.obmep.org.br/)**, focusing on the subjects **Graph Theory and Its Algorithms** and **Unveiling the Mysteries of Sorting**. I was part of **Impatecode**, a university extension project dedicated to competitive programming. I enjoy solving problems on various platforms, particularly **[CSES](https://cses.fi/user/247527)**, where I have solved **227 problems**, and **[Codeforces](https://codeforces.com/profile/ColchaoDeMolasEnsacadas)**, with **348 problems** solved to date.
 
-<p align="center">
-  <img src="./assets/cf.png" width="700" alt="Codeforces Problems">
-</p>
-
 - **Software Development 🧑‍💻:** I build software with some purpose, be it to simplify daily routines, transform how we visualize and interpret data or as a tool used to facilitate the gathering of information in some way. My portfolio is a mix of utility applications and passion projects developed for the sheer fun of it. While part of my work is public on GitHub, I also maintain a variety of private experiments and personal tools.
 
 - **Pure and Applied Mathematics 🧮:** While my professional focus is currently centered on computer science and programming, my foundation is built entirely on mathematics. My journey began with an immersion in both pure and applied math, a path marked by olympiads and a passion for high-level problem-solving. These years spent reading and writing mathematical proofs and national competitions were very important, being the place where I forged the analytical mindset I bring to code I write today. This mathematical side remains a core part of my identity as a background that has allowed me to approach software as a logical extension of the mathematical principles I have studied for years.
