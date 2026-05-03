@@ -55,17 +55,6 @@ These are the skills I am most proficient in at the time of this profile update.
 
 ## Contributions 🟩
 
-<table>
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vitinholiv&show_icons=true&theme=github_dark" alt="Vitinholiv-readme-stats" />
-    </td>
-    <td style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Vitinholiv&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
 ![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Vitinholiv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
 
 <p align="center">
