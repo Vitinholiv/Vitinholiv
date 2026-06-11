@@ -35,7 +35,7 @@ These are the skills I am most proficient in at the time of this profile update.
 ### Technologies 🛠 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,latex,vscode,bash,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,latex,vscode,bash,visualstudio,flask" />
 </div>
 
 ### Libraries 📚
