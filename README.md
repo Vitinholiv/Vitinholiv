@@ -47,7 +47,6 @@ These are the skills I am most proficient in at the time of this profile update.
   <img src="./assets/matplotlib.svg" width="50" height="50" alt="Matplotlib" />&nbsp;
   <img src="./assets/pytorch.svg" width="50" height="50" alt="PyTorch" />&nbsp;
   <img src="./assets/scikitlearn.svg" width="50" height="50" alt="Scikit-learn" />&nbsp;
-  <img src="./assets/cytoscape.svg" width="50" height="50" alt="Cytoscape" />&nbsp;
 </div>
 
 ## Contributions 🟩
