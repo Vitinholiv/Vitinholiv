@@ -25,7 +25,7 @@ These are the skills I am most proficient in at the time of this profile update.
 ### Technologies 🛠 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,latex,vscode,bash,visualstudio,flask" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,flask" />
 </div>
 
 ### Libraries 📚
@@ -36,7 +36,6 @@ These are the skills I am most proficient in at the time of this profile update.
   <img src="./assets/scipy.svg" width="50" height="50" alt="SciPy" />&nbsp;
   <img src="./assets/matplotlib.svg" width="50" height="50" alt="Matplotlib" />&nbsp;
   <img src="./assets/pytorch.svg" width="50" height="50" alt="PyTorch" />&nbsp;
-  <img src="./assets/scikitlearn.svg" width="50" height="50" alt="Scikit-learn" />&nbsp;
 </div>
 
 ## Contributions 🟩
