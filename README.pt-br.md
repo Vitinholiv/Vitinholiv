@@ -25,7 +25,7 @@ Essas são as habilidades que me considero mais proficiente no momento que atual
 ### Tecnologias 🛠 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,latex,vscode,bash,visualstudio,flask" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,flask" />
 </div>
 
 ### Bibliotecas 📚
@@ -36,7 +36,6 @@ Essas são as habilidades que me considero mais proficiente no momento que atual
   <img src="./assets/scipy.svg" width="50" height="50" alt="SciPy" />&nbsp;
   <img src="./assets/matplotlib.svg" width="50" height="50" alt="Matplotlib" />&nbsp;
   <img src="./assets/pytorch.svg" width="50" height="50" alt="PyTorch" />&nbsp;
-  <img src="./assets/scikitlearn.svg" width="50" height="50" alt="Scikit-learn" />&nbsp;
 </div>
 
 ## Contribuições 🟩
