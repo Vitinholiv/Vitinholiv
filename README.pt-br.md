@@ -19,13 +19,18 @@ Essas são as habilidades que me considero mais proficiente no momento que atual
 ### Linguagens ⌨️
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,php,html,css,lua" />
 </div>
 
-### Tecnologias 🛠 
+### Tecnologias Principais 🛠 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,flask" />
+  <img src="https://skillicons.dev/icons?i=mysql,git" />
+</div>
+
+### Aberto A Aprender 📖
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,laravel" />
 </div>
 
 ### Bibliotecas 📚
