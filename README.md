@@ -19,13 +19,19 @@ These are the skills I am most proficient in at the time of this profile update.
 ### Languages ⌨️
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,php,html,css,lua" />
 </div>
 
-### Technologies 🛠 
+### Main Technologies 🛠 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,flask" />
+  <img src="https://skillicons.dev/icons?i=mysql,git" />
+</div>
+
+### Open To Learn 📖
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,laravel" />
 </div>
 
 ### Libraries 📚
